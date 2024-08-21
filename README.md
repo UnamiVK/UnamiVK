@@ -1,27 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Jersey+10&family=New+Amsterdam&display=swap');
-
-    .wrapper {
-      text-align: center;
-      background-color: #111;
-      color: beige;
-      padding: 3rem 1rem;
-      border-radius: 2rem;
-      outline: 2px solid beige;
-      box-shadow: 0 0 20px 1px #444;
-      font-family: "Edu VIC WA NT Beginner";
-      letter-spacing: 1px;
-    }
-
-    h1 { font-size: 3.2rem }
-    h2 { font-size: 2.4rem }
-    h3 { font-size: 2rem }
-    h4 { font-size: 1.25rem }
-    span { font-size: 1.5rem }
-    
-</style>
-
-<div class="wrapper">
+<div class="wrapper" style="color: royalblue">
    <h1>Hello there! I'm Ripley. :v:</h1>
    <h2>Currently working on... </h2>
    <span>:man_technologist: :coffee:</span>
