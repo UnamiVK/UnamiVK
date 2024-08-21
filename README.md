@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there! I'm Ripley. :v:
 
-<!--
-**UnamiVK/UnamiVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on... :man_technologist: :coffee:
 
-Here are some ideas to get you started:
+### <sup>In the process of learning</sup> <sub>![alt text](image-9.png)</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt text](image-8.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-5.png)
+![alt text](image-4.png)
+![alt text](image-11.png)
+![alt text](image-6.png)
