@@ -7,8 +7,8 @@
 ![JavaScript](icons/image-3.png)
 ![TypeScript](icons/image-5.png)
 ![React](icons/image-4.png)
+![Next.js](icons/nextjs-icon.png)
 ![Sass](icons/image-11.png)
 ![Git](icons/image-6.png)
-![Next.js](icons/nextjs-icon.png)
 
 #### _What Happens Next?_
