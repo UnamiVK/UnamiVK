@@ -1,7 +1,7 @@
 <div align="center"> 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0ZDZ1azE0d2lpMGxleHV1cXJzc3VmbjR2enB0N2Vpa2w3aGg1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="200" alt="Laptop Gif"/>
 
-# <ins>Aye, I'm Ripley. ✌️</ins>
+# <ins>Aye, I'm Ripley.</ins>✌️
 
 _I'm a coder-in-training, diving into the world of web development. I’ve been coding for about a year, teaching myself the ropes of front-end dev._
 
